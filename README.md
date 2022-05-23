@@ -1,3 +1,11 @@
 # ThunderX-EV_Usecase
-Project comprising of Data Engineering, Analysis and Machine Learning on an Electric Vehicle Manufacturing company
-![image](https://user-images.githubusercontent.com/41811713/169872839-2d6678d0-45b8-4233-9401-6ed8c9e6e036.png)
+An Electric Vehicle Manufacturing company wants to setup a new Snowflake based infrastructure and implement Business Intelligence into their company.
+
+Domains and Technology stack
+* Data Engineering [Snowflake | AWS | dbt], 
+* Analysis & Reporting [PowerBI]
+* Machine Learning [Recommendation System | Chatbot]
+* CRM Tool [Salesforce]
+* Agile Tool [JIRA]
+
+![Architecture V2 2 drawio](https://user-images.githubusercontent.com/41811713/169873219-eacb8355-5a63-48d8-9556-ca5e30f611dc.png)
