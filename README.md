@@ -9,6 +9,7 @@ Domains and Technology stack
 * Agile Tool [JIRA]
 
 Architecture V1
+
 ![Architecture V2 2 drawio](https://user-images.githubusercontent.com/41811713/169873219-eacb8355-5a63-48d8-9556-ca5e30f611dc.png)
 
 Architecture V4
